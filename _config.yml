@@ -1,0 +1,28 @@
+name: bkoepke
+favicon: null
+layout_spectrum: 0.050646656192839146
+typography_spectrum: 0.5625693772453815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6919146403670311
+  lightness: 0.4244489267002791
+  saturation: 0.9572109547443688
+  rhythmicContrast: 0.017427215352654457
+purpose: []
