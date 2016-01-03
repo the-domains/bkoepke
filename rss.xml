@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[bkoepke]]></title>
         <description><![CDATA[bkoepke]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bkoepke/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 17:37:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 17:56:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bkoepke/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nest casa]]></title>
+            <description><![CDATA[<article><h1>nest casa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e035fba4d4e281e6860148b857ccd1f73727654.jpg"></article>]]></description>
+            <link>https://thegrid.ai/bkoepke/nest-casa/index.html</link>
+            <guid isPermaLink="false">e905ae35-d453-4dfa-8cca-a0bebf09c06e</guid>
+            <pubDate>Sun, 03 Jan 2016 17:56:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sarasota]]></title>
             <description><![CDATA[<article><h1>sarasota</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/809874b7e6b10a1339938be8a2fb5d50232658cd.jpg"></article>]]></description>
-            <link>undefinedsarasota/index.html</link>
+            <link>https://thegrid.ai/bkoepke/sarasota/index.html</link>
             <guid isPermaLink="false">3eae301d-1c8b-47bb-8387-c04e7c17213b</guid>
             <pubDate>Sun, 03 Jan 2016 17:37:19 GMT</pubDate>
         </item>
