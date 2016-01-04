@@ -1,6 +1,6 @@
 name: bkoepke
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.2562
 typography_spectrum: 0.23751
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.125
-  lightness: 1
-  saturation: 1
+    - '#f0f5fb'
+    - '#ee6758'
+    - '#7facda'
+    - '#231f20'
+    - '#fed031'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
